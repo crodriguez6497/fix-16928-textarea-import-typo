@@ -1,6 +1,10 @@
 {
     "id": 67,
+<<<<<<< HEAD
     "content": "Figma UI Kit v3 is out! 🚀",
+=======
+    "content": "🎉 Figma UI Kit v3 is out! 🚀",
+>>>>>>> f09c5b03f (Update news.json)
     "linkText": "Learn More",
     "linkHref": "https://primeng.org/uikit"
 }
